@@ -1,4 +1,7 @@
 #      CURRENCY CONVERTER SYSTEM
+import display_currencies
+import show_history
+import show_rates
 
 rates = {
     "USD": 1.00,
